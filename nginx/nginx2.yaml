@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     run: nginx-fleet-demo1
+    test: test
   name: nginx-fleet-demo1
 spec:
   containers:
